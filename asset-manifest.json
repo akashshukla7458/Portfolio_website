@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/textutils/static/css/main.04179b6f.css",
-    "main.js": "/textutils/static/js/main.128f6274.js",
-    "static/js/787.28cb0dcd.chunk.js": "/textutils/static/js/787.28cb0dcd.chunk.js",
-    "static/media/logo.svg": "/textutils/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/textutils/index.html",
-    "main.04179b6f.css.map": "/textutils/static/css/main.04179b6f.css.map",
-    "main.128f6274.js.map": "/textutils/static/js/main.128f6274.js.map",
-    "787.28cb0dcd.chunk.js.map": "/textutils/static/js/787.28cb0dcd.chunk.js.map"
+    "main.css": "/akashshukla7458/textutils/static/css/main.04179b6f.css",
+    "main.js": "/akashshukla7458/textutils/static/js/main.9cfd2d12.js",
+    "static/js/787.28cb0dcd.chunk.js": "/akashshukla7458/textutils/static/js/787.28cb0dcd.chunk.js",
+    "static/media/logo.svg": "/akashshukla7458/textutils/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/akashshukla7458/textutils/index.html",
+    "main.04179b6f.css.map": "/akashshukla7458/textutils/static/css/main.04179b6f.css.map",
+    "main.9cfd2d12.js.map": "/akashshukla7458/textutils/static/js/main.9cfd2d12.js.map",
+    "787.28cb0dcd.chunk.js.map": "/akashshukla7458/textutils/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.04179b6f.css",
-    "static/js/main.128f6274.js"
+    "static/js/main.9cfd2d12.js"
   ]
 }
